@@ -1,0 +1,25 @@
+F:\AoC\2020\AdventOfCode2020\src\bin\Debug\net5.0-windows\AdventOfCode.exe
+F:\AoC\2020\AdventOfCode2020\src\bin\Debug\net5.0-windows\AdventOfCode.deps.json
+F:\AoC\2020\AdventOfCode2020\src\bin\Debug\net5.0-windows\AdventOfCode.runtimeconfig.json
+F:\AoC\2020\AdventOfCode2020\src\bin\Debug\net5.0-windows\AdventOfCode.runtimeconfig.dev.json
+F:\AoC\2020\AdventOfCode2020\src\bin\Debug\net5.0-windows\AdventOfCode.dll
+F:\AoC\2020\AdventOfCode2020\src\bin\Debug\net5.0-windows\ref\AdventOfCode.dll
+F:\AoC\2020\AdventOfCode2020\src\bin\Debug\net5.0-windows\AdventOfCode.pdb
+F:\AoC\2020\AdventOfCode2020\src\bin\Debug\net5.0-windows\Priority Queue.dll
+F:\AoC\2020\AdventOfCode2020\src\obj\Debug\net5.0-windows\AdventOfCode.csprojAssemblyReference.cache
+F:\AoC\2020\AdventOfCode2020\src\obj\Debug\net5.0-windows\UI\MainWindow.g.cs
+F:\AoC\2020\AdventOfCode2020\src\obj\Debug\net5.0-windows\UI\App.g.cs
+F:\AoC\2020\AdventOfCode2020\src\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\AoC\2020\AdventOfCode2020\src\obj\Debug\net5.0-windows\AdventOfCode_MarkupCompile.cache
+F:\AoC\2020\AdventOfCode2020\src\obj\Debug\net5.0-windows\AdventOfCode_MarkupCompile.lref
+F:\AoC\2020\AdventOfCode2020\src\obj\Debug\net5.0-windows\UI\MainWindow.baml
+F:\AoC\2020\AdventOfCode2020\src\obj\Debug\net5.0-windows\AdventOfCode.g.resources
+F:\AoC\2020\AdventOfCode2020\src\obj\Debug\net5.0-windows\AdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
+F:\AoC\2020\AdventOfCode2020\src\obj\Debug\net5.0-windows\AdventOfCode.AssemblyInfoInputs.cache
+F:\AoC\2020\AdventOfCode2020\src\obj\Debug\net5.0-windows\AdventOfCode.AssemblyInfo.cs
+F:\AoC\2020\AdventOfCode2020\src\obj\Debug\net5.0-windows\AdventOfCode.csproj.CoreCompileInputs.cache
+F:\AoC\2020\AdventOfCode2020\src\obj\Debug\net5.0-windows\AdventOfCode.csproj.CopyComplete
+F:\AoC\2020\AdventOfCode2020\src\obj\Debug\net5.0-windows\AdventOfCode.dll
+F:\AoC\2020\AdventOfCode2020\src\obj\Debug\net5.0-windows\ref\AdventOfCode.dll
+F:\AoC\2020\AdventOfCode2020\src\obj\Debug\net5.0-windows\AdventOfCode.pdb
+F:\AoC\2020\AdventOfCode2020\src\obj\Debug\net5.0-windows\AdventOfCode.genruntimeconfig.cache

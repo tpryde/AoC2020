@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JQpVHfgKeptuKJ8n3kspfb9caWpUfoJOk8Q3Qqprz0jmE7uklQziUk4Xh10JqvQFdU1N74zzi7xAQWvl4JiWfg==",
+  "success": true,
+  "projectFilePath": "F:\\AoC\\2020\\AdventOfCode2020\\src\\AdventOfCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thoma\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\optimizedpriorityqueue\\4.2.0\\optimizedpriorityqueue.4.2.0.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
