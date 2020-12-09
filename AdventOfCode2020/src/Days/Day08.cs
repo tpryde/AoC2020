@@ -132,15 +132,14 @@ namespace AdventOfCode.Days
         public enum COMMAND { NOP, ACC, JMP }
         public struct Instruction
         {
+            public readonly string Value;
+            public readonly int ValueAsInt;
             private readonly bool initialized;
-            private COMMAND prvCommand;
             
+            private COMMAND prvCommand;
             public COMMAND Command;
-            public string Value;
-            public int ValueAsInt;
-
+            
             public bool Initialized => initialized;
-
             public void ResetCommand() => Command = prvCommand;
 
             public Instruction(COMMAND cmd, string value)
@@ -153,7 +152,7 @@ namespace AdventOfCode.Days
 
                 if(!int.TryParse(value, out ValueAsInt))
                 {
-                    ValueAsInt = -1;
+                    ValueAsInt = 0;
                 }
             }
 
