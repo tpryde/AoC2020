@@ -67,20 +67,21 @@ namespace AdventOfCode.Days
                     string[] cmd = _lines[index].Split(" ", StringSplitOptions.RemoveEmptyEntries);
                     instructions[index] = new Instruction(GetCommand(cmd[0]), cmd[1]);
                 }
-                Instruction instruction = instructions[index];
 
                 // Swap new instruction
                 if (instructionIndexSwapped == -1)
                 {
-                    if (instruction.Command == COMMAND.NOP || instruction.Command == COMMAND.JMP)
+                    if (instructions[index].Command == COMMAND.NOP || instructions[index].Command == COMMAND.JMP)
                     {
                         if (attemptedInstructionIndexSwaps.Contains(index) == false)
                         {
                             instructionIndexSwapped = index;
                             attemptedInstructionIndexSwaps.Add(index);
+                            instructions[index].SetCommand(instructions[index].Command == COMMAND.JMP ? COMMAND.NOP : COMMAND.JMP);
                         }
                     }
                 }
+                Instruction instruction = instructions[index];
 
                 // Loop detected
                 if (executedInstructionIndicies.Contains(index))
@@ -105,7 +106,7 @@ namespace AdventOfCode.Days
                         continue;
 
                     case COMMAND.JMP:
-                        if (instructionIndexSwapped != index) Jump(ref index, instruction.ValueAsInt);
+                        Jump(ref index, instruction.ValueAsInt);
                         continue;
                 }
             }
